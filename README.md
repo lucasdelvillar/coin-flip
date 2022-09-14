@@ -1,7 +1,7 @@
 # coin-flip
 Web App that flips a coin server side.
 
-**Link to project:** #
+**Link to project:** No link available. Please clone repo. Then open terminal, navigate into the local repo, and run "node server.js". In your broswer type in the search bar "localhost:8000" to see application live. 
 
 ![alt tag](https://i.imgur.com/4dIw7GA.gif)
 
