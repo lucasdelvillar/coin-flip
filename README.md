@@ -3,7 +3,7 @@ Web App that flips a coin server side.
 
 **Link to project:** #
 
-![alt tag](https://i.imgur.com/ZCcAyYZ.png)
+![alt tag](https://i.imgur.com/4dIw7GA.gif)
 
 ## How It's Made:
 
