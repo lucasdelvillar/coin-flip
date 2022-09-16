@@ -44,7 +44,7 @@ const server = http.createServer((req, res) => {
       res.end();
     });
   }
-  // load heads image
+  // load heads image (not tutorial video)
   else if (page == '/images/heads.png'){
     fs.readFile('./images/heads.png', function(err, data) {
       res.writeHead(200, {'Content-Type': 'image/png' });
@@ -52,7 +52,7 @@ const server = http.createServer((req, res) => {
       res.end();
     });
   }
-  // load tails image
+  // load tails image (not tutorial video)
   else if (page == '/images/tails.png'){
     fs.readFile('./images/tails.png', function(err, data) {
       res.writeHead(200, {'Content-Type': 'image/png' });
@@ -74,3 +74,4 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(process.env.PORT);
+// server.listen(PORT); // comment in if testing locally
