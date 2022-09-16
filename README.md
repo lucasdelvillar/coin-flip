@@ -1,7 +1,7 @@
 # coin-flip
 Web App that flips a coin server side.
 
-**Link to project:** No link available. Please clone repo. Then open terminal, navigate into the local repo, and run "node server.js". In your broswer type in the search bar "localhost:8000" to see application live. 
+**Link to project:** No link available. 
 
 ![alt tag](https://i.imgur.com/4dIw7GA.gif)
 
@@ -14,3 +14,6 @@ JSON before client-side JS updates DOM - which includes starting the "flip" anim
 
 ## Lessons Learned:
 Learned how to create a server, load resources, and build a simple API with a read only function in node.js. 
+
+
+**How To Run:** Please clone repo. Then open terminal, navigate into the local repo, and run "node server.js". In your broswer type in the search bar "localhost:8000" to see application live. 
